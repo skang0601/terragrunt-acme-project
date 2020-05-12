@@ -1,0 +1,5 @@
+# Define default terraform variables in here
+# These values are passed into every module through environment variables (e.g. TFVARS_TAGS=)
+tags:
+  my: tags
+  foo: bar
